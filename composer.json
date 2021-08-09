@@ -1,5 +1,5 @@
 {
-  "name": "fiyo/mattermost",
+  "name": "coimstark/mattermost",
   "description":  "Php Wrapper to interact with Mattermost API https://api.mattermost.com/",
   "version": "1.3.0",
   "type": "library",
