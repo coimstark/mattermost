@@ -3,7 +3,7 @@ PHP wrapper for [Mattermost Api](https://api.mattermost.com/)
 
 ### Installation
 ```
-composer require onderdelenwinkelnl/mattermost
+composer require coimstark/mattermost
 ```
 
 ### Authentication
